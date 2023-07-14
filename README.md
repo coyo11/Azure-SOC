@@ -61,16 +61,16 @@ Start Time 2023-07-12T18:26:16.2865994Z
 Stop Time	2023-07-14T18:26:16.2865994Z
 
 | Metric                   | Count
-| ------------------------ | -----
-| SecurityEvent            | 897
-| Syslog                   | 2
-| SecurityAlert            | 0
-| SecurityIncident         | 0
-| AzureNetworkAnalytics_CL | 0
+| -------------------------- | -----
+| SecurityEvent              | 897
+| Syslog                     | 2
+| SecurityAlert              | 0
+| SecurityIncident           | 0
+| AzureNetworkAnalytics_CL   | 0
 
 
-| Results                 | Count
-| ------------------------ | -----
+| Results                    | Count
+| ------------------------   | -----
 | SecurityEvents (Windows VM)| -80.15%
 | Syslog  (Linux VMs)        | -99.96%
 | (Defender For Cloud)       | -100%
